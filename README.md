@@ -1,7 +1,7 @@
 <h2>🧑 About us</h2>
 <ul>
 <li>🙋 Hey, welcome to our github page.</li> 
-<li>👀 In this github account, you can find various materials (e.g., notes, codes) of some of the courses taught at Gumushane University Electrical-Electronics Engineering in the associated repositories. Additionaly one may find research materials related to inertial navigation, sensor fusion, computer vision, machine & deep learning as well.</li>
+<li align="adjust">👀 In this github account, you can find various materials (e.g., notes, codes) of some of the courses taught at Gumushane University Electrical-Electronics Engineering in the associated repositories. Additionaly one may find research materials related to inertial navigation, sensor fusion, computer vision, machine & deep learning as well.</li>
 <li>🌱 We're still newbies in github so this is not a pro account yet. Hope we get better gradually to be our best version.</li>
 </ul>
 <!---
@@ -18,19 +18,17 @@
 |----------|----------|----------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="matlab" width="55" height="55"> |
 
-  
-
 <h3>Frameworks</h3>
 
 | Pytorch | Keras | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras"  alt="Keras" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
-<h3>Microcontrollers</h3>
+<h3>Other</h3>
 
-| Arduino |
-|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55">|
+| Arduino | Anaconda | VS Code |
+|---------|----------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55">|
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
