@@ -2,7 +2,7 @@
 <ul>
 <li>🙋 Hey, welcome to our github page.</li> 
 <li align="adjust">👀 In this github account, you can find various materials (e.g., notes, codes) of some of the courses taught at Gumushane University Electrical-Electronics Engineering in the associated repositories. Additionaly one may find research materials related to inertial navigation, sensor fusion, computer vision, machine & deep learning as well.</li>
-<li>🌱 We're still newbies in github so this is not a pro account yet. Hope we get better gradually to be our best version.</li>
+<li>🌱 We're still newbies in github so this is not a pro account yet. Hope we get better gradually to become the best version of ourselves.</li>
 </ul>
 <!---
 - 📫 Email: m.tahakoroglu@gumushane.edu.tr | [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
