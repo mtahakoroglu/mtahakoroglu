@@ -4,7 +4,6 @@
 <li align="adjust">👀 There are various course materials in the account. Additionaly one may find research materials related to <a href="https://github.com/mtahakoroglu/PyShoe-annotation-expansion-for-LLIO">inertial navigation/odometry</a>, sensor fusion, computer vision, machine & deep learning as well.</li>
 <li>🌱 We're still newbies in GitHub so this is not a pro account yet. Hope we get better gradually to become the best version of ourselves.</li>
 <li>🤖 We're using GitHub Copilot while typing code in classes. GitHub Copilot is the future! 🚀</li>
-</ul>
 <li>📼 Trying to use VHS developed by <a href="https://github.com/charmbracelet">Charm</a> to make our CLI glamorous but could not make it run for PS yet 😞.</li>
 </ul> 
 <!---
