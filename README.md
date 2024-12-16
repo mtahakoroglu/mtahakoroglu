@@ -8,25 +8,27 @@
 <!---
 - 📫 Email: m.tahakoroglu@gumushane.edu.tr | [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
 -->
-<p align="center"><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width=%100 height=auto></p>
 
-<h2>💻 Technology we use daily in teaching & research</h2> 
+<h2>💻 Tools we use in teaching & research</h2> 
 <div>
 
 
-| C | C++ | Python | MATLAB |
-|----------|----------|----------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="matlab" width="55" height="55"> |
+| C++ | Python | MATLAB | HTML |
+| :--------: | :--------: | :------: | :-------: |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="55" height="55"> |
 
+| Arduino | Anaconda | VS Code | PowerShell |
+|---------|----------|-----------|------------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"> |
 
 | Pytorch | Keras | Sklearn | OpenCV |
 |---------|-------|---------|--------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras"  alt="Keras" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>|
 
 
-| Arduino | Anaconda | VS Code | PowerShell |
-|---------|----------|---------|------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"> |
+<p align="center"><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width=%100 height=auto></p>
+
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
