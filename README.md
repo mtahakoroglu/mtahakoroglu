@@ -12,17 +12,34 @@
 <h2>💻 Tools we use in teaching & research</h2> 
 <div>
 
-| C++ | Python | MATLAB | HTML |  |
-| :--------: | :--------: | :------: | :-------: | :-------------: |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="55" height="55"> | <img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width="200" height=auto rowspan="3"> |
-
-| Arduino | Anaconda | VS Code | PS |  |
-|---------|----------|-----------|------------|-------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55">|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"> |  |
-
-| PyTorch | Keras | scikit-learn | OpenCV |  |
-|---------|-------|---------|--------|-------------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras"  alt="Keras" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/>|  |
+<table>
+  <tr>
+    <th>C++</th>
+    <th>Python</th>
+    <th>MATLAB</th>
+    <th>HTML</th>
+    <th rowspan="3"></th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="55" height="55"></td>
+    <td><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width="400" height=auto></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"></td>
+  </tr>
+</table>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
