@@ -18,7 +18,7 @@
     <th>Python</th>
     <th>MATLAB</th>
     <th>HTML</th>
-    <th rowspan="4"><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width="400" height=auto></th>
+    <th rowspan="4"><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" style="width: 100%; height: auto;"></th>
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"></td>
