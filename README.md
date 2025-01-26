@@ -31,8 +31,9 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"></td>
   </tr>
-  <tr><td colspan="4"><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" style="width: 100%; height: auto;"></td></tr>
 </table>
+
+<img src="assets/taha face detection DL.gif" alt="face detection with deep learning" style="width: 100%; height: auto;">
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
