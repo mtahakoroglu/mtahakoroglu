@@ -18,14 +18,13 @@
     <th>Python</th>
     <th>MATLAB</th>
     <th>HTML</th>
-    <th rowspan="3"></th>
+    <th rowspan="4"><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width="400" height=auto></th>
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="icon" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="55" height="55"></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="55" height="55"></td>
-    <td><img src="assets/taha face detection DL.gif" alt="face detection with deep learning" width="400" height=auto></td>
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"></td>
