@@ -5,6 +5,9 @@
 <li>📼 Attempted to use <a href="https://github.com/charmbracelet/vhs">VHS</a> developed by <a href="https://github.com/charmbracelet">Charm</a> to make the CLI glamorous but could not make it run for PS yet. 😞</li>
 <li>🌱 We're still newbies in GitHub in terms of earning achievements yet GitHub labeled us as <b>Pro</b> 👨‍🏫. Now we're using GitHub Copilot 🤖 while typing code (autocompletion is awesome!) in classes. 🚀</li>
 </ul> 
+
+<img src="assets/data annotation process.jpg" alt="data annotation process" style="width: 100%; height: auto;">
+
 <!---
 - 📫 Email: m.tahakoroglu@gumushane.edu.tr | [![Gmail Badge](https://img.shields.io/badge/-m.tahakoroglu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.tahakoroglu@gmail.com)](mailto:m.tahakoroglu@gmail.com)
 -->
