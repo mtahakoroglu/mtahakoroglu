@@ -1,7 +1,7 @@
 <h2>🧑 About us</h2>
 <ul>
 <li>🙋 Welcome to our GitHub page!</li> 
-<li align="adjust">👀 👀 Here you'll find a variety of course materials, as well as research resources related to <a href="https://github.com/mtahakoroglu/gait-driven-inertial-navigation-dataset">inertial navigation systems</a></li>
+<li align="adjust">👀 Here you'll find a variety of course materials, as well as research resources related to <a href="https://github.com/mtahakoroglu/gait-driven-inertial-navigation-dataset">inertial navigation systems</a></li>
 <!--<li>📼 Attempted to use <a href="https://github.com/charmbracelet/vhs">VHS</a> developed by <a href="https://github.com/charmbracelet">Charm</a> to make the CLI glamorous but could not make it run for PS yet. 😞</li>
 <li>🌱 We're still newbies in GitHub in terms of earning achievements yet GitHub labeled us as <b>Pro</b> 👨‍🏫. Now we're using GitHub Copilot 🤖 while typing code (autocompletion is awesome!) in classes. 🚀</li>-->
 </ul>
